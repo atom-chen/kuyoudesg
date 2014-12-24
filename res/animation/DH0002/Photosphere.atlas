@@ -1,0 +1,27 @@
+
+Photosphere.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dazhao
+  rotate: false
+  xy: 2, 2
+  size: 201, 200
+  orig: 201, 200
+  offset: 0, 0
+  index: -1
+dazhao2
+  rotate: false
+  xy: 2, 204
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+dazhao3
+  rotate: false
+  xy: 302, 220
+  size: 281, 280
+  orig: 281, 280
+  offset: 0, 0
+  index: -1

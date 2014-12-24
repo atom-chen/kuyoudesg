@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 682, 60
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 821, 87
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 526, 76
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 299, 32
+  size: 111, 42
+  orig: 111, 42
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 2, 24
+  size: 178, 102
+  orig: 178, 102
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 902, 99
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 611, 60
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 611, 102
+  size: 103, 24
+  orig: 103, 24
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 427, 62
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 934, 93
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 782, 72
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 2, 6
+  size: 104, 16
+  orig: 104, 16
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 716, 64
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 299, 2
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 108, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 299, 76
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 865, 91
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 412, 50
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+u
+  rotate: false
+  xy: 182, 24
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 352, 7
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 389, 11
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 821, 75
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 526, 62
+  size: 11, 12
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

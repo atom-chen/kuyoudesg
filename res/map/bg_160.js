@@ -1,0 +1,1 @@
+var BgConfig={"type":0,"lists":[[{"img":"hjzl_35.png","flip":false,"scale":1,"x":482.0999450683594,"y":80,"z":0,"img_type":"plist"}],[{"img":"hjzl_54.png","flip":false,"scale":1,"x":5.999969482421875,"y":7,"z":0,"img_type":"plist","rotate":0}],[],[],[]]}

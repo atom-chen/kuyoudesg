@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes
+  rotate: false
+  xy: 80, 2
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+Eyes_3
+  rotate: false
+  xy: 179, 57
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+Eyes_4
+  rotate: false
+  xy: 394, 110
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+Face_1
+  rotate: false
+  xy: 487, 114
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Face_2
+  rotate: false
+  xy: 105, 53
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 116, 2
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Helm_s
+  rotate: false
+  xy: 2, 62
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+LArm_s
+  rotate: true
+  xy: 212, 40
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+LForearm_s
+  rotate: false
+  xy: 179, 12
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+LLeg_1_s
+  rotate: true
+  xy: 241, 67
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+LLeg_s
+  rotate: false
+  xy: 202, 18
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+LShoulder_s
+  rotate: false
+  xy: 214, 54
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Mainweapon_s
+  rotate: true
+  xy: 116, 75
+  size: 51, 123
+  orig: 51, 123
+  offset: 0, 0
+  index: -1
+Manteau
+  rotate: false
+  xy: 2, 2
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+RArm_s
+  rotate: true
+  xy: 462, 111
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+RForearm_s
+  rotate: true
+  xy: 394, 87
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+RLeg_1_s
+  rotate: false
+  xy: 216, 23
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+RLeg_s
+  rotate: true
+  xy: 202, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+RShoulder_s
+  rotate: true
+  xy: 80, 20
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 241, 83
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+TorsoBottom_1
+  rotate: false
+  xy: 429, 112
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+TorsoBottom_s
+  rotate: false
+  xy: 179, 37
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+TorsoTop_s
+  rotate: false
+  xy: 345, 87
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1

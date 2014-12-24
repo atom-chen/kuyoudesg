@@ -1,0 +1,31 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [ 
+        "src/base64.js",  
+        "src/xxtea.js",  
+        "src/common.js",   
+        "src/resource.js", 
+
+        "src/define/BgDefine.js",
+        "src/define/RoleDefine.js",
+        
+
+        "src/CommonUi.js",
+        "src/MainUi.js",
+        "src/Kit.js",  
+        "src/MapEditLayer.js",
+        "src/UnitEditorLayer.js",
+        "src/GameLayer.js"   
+        
+    ]
+}

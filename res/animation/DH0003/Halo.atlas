@@ -1,0 +1,83 @@
+
+Halo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1
+  rotate: false
+  xy: 2, 50
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+tx10
+  rotate: false
+  xy: 368, 197
+  size: 327, 305
+  orig: 327, 305
+  offset: 0, 0
+  index: -1
+tx11
+  rotate: false
+  xy: 2, 146
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 777, 110
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 701, 100
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+tx4
+  rotate: false
+  xy: 701, 23
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+tx5
+  rotate: false
+  xy: 2, 61
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+tx6
+  rotate: false
+  xy: 563, 4
+  size: 136, 191
+  orig: 136, 191
+  offset: 0, 0
+  index: -1
+tx7
+  rotate: false
+  xy: 104, 68
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+tx8
+  rotate: false
+  xy: 368, 2
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+tx9
+  rotate: false
+  xy: 697, 200
+  size: 306, 302
+  orig: 306, 302
+  offset: 0, 0
+  index: -1

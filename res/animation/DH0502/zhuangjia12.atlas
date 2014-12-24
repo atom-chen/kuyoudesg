@@ -1,0 +1,104 @@
+
+zhuangjia12.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 36
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 212, 48
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 242, 72
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+f
+  rotate: true
+  xy: 84, 51
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 5
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 231, 91
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 95, 4
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 84, 61
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 95, 32
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 126, 61
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 242, 60
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+u
+  rotate: false
+  xy: 168, 85
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 69, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 168, 42
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
